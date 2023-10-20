@@ -1,0 +1,17 @@
+{
+  "name": "zoom-clone-template",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "npx nodemon index.js"
+  },
+  "dependencies": {
+    "socket.io": "^3.0.5"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
